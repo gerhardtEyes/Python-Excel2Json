@@ -1,0 +1,1204 @@
+[
+    [
+        {
+            "_id": "025",
+            "charName": "皮卡丘",
+            "type": "老鼠口袋妖怪",
+            "attType": "电",
+            "level": 5,
+            "speciality": "静电",
+            "testConnet": [
+                {
+                    "_id": "1",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "2",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "3",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "4",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "133",
+            "charName": "伊布",
+            "type": "进化口袋妖怪",
+            "attType": "普",
+            "level": 6,
+            "speciality": "逃足/适应力",
+            "testConnet": [
+                {
+                    "_id": "1",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "2",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "3",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "4",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "007",
+            "charName": "杰尼龟",
+            "type": "小龟口袋妖怪",
+            "attType": "水",
+            "level": 7,
+            "speciality": "激流",
+            "testConnet": [
+                {
+                    "_id": "1",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "2",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "3",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "4",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "001",
+            "charName": "妙蛙种子",
+            "type": "种子口袋妖怪",
+            "attType": "草、毒",
+            "level": 8,
+            "speciality": "茂盛",
+            "testConnet": [
+                {
+                    "_id": "1",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "2",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "3",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "4",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "004",
+            "charName": "小火龙",
+            "type": "蜥蜴口袋妖怪",
+            "attType": "火",
+            "level": 9,
+            "speciality": "烈火",
+            "testConnet": [
+                {
+                    "_id": "1",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "2",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "3",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "4",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                },
+                {
+                    "_id": "5",
+                    "forTest": "测试",
+                    "testConnet2": [
+                        {
+                            "_id": "025",
+                            "charName": "皮卡丘",
+                            "type": "老鼠口袋妖怪",
+                            "attType": "电",
+                            "level": 5,
+                            "speciality": "静电"
+                        },
+                        {
+                            "_id": "133",
+                            "charName": "伊布",
+                            "type": "进化口袋妖怪",
+                            "attType": "普",
+                            "level": 6,
+                            "speciality": "逃足/适应力"
+                        },
+                        {
+                            "_id": "007",
+                            "charName": "杰尼龟",
+                            "type": "小龟口袋妖怪",
+                            "attType": "水",
+                            "level": 7,
+                            "speciality": "激流"
+                        },
+                        {
+                            "_id": "001",
+                            "charName": "妙蛙种子",
+                            "type": "种子口袋妖怪",
+                            "attType": "草、毒",
+                            "level": 8,
+                            "speciality": "茂盛"
+                        },
+                        {
+                            "_id": "004",
+                            "charName": "小火龙",
+                            "type": "蜥蜴口袋妖怪",
+                            "attType": "火",
+                            "level": 9,
+                            "speciality": "烈火"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+]
